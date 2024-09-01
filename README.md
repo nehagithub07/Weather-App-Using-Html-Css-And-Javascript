@@ -2,6 +2,9 @@
 
 This is a simple Weather Application built using HTML, CSS, and JavaScript. It allows users to get the current weather information of any city by entering the city name in the search box. The weather data is fetched from the OpenWeatherMap API.
 
+## Live Project
+You can view the live version of the Weather App here: [Live Weather App](https://weather-app-using-html-css-and-javascript-l4scb3rwa.vercel.app/)
+
 ## Features
 
 - **Search Weather by City**: Users can search for the weather of any city by entering the city name.
@@ -10,7 +13,6 @@ This is a simple Weather Application built using HTML, CSS, and JavaScript. It a
 - **Error Handling**: Displays an error message if an invalid city name is entered.
 
 ## Technologies Used
-
 - **HTML**: Structure of the application.
 - **CSS**: Styling and layout of the application.
 - **JavaScript**: Logic for fetching and displaying weather data.
